@@ -1,2 +1,4 @@
 # apikey
-/apikey.json
+src/api
+
+node_modules
