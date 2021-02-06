@@ -1,6 +1,5 @@
 ## Momentum
 ### Nomad Coders Toy project(Vanilla JS)
-[실행링크](https://tjdgus3160.github.io/Momentum)
 
 결과화면
 #### 기능
